@@ -54,3 +54,5 @@ type Admin2 = Person2 & {
     role: "admin" | "user"
 } // you can use intersection types to extend types
 
+export{}
+

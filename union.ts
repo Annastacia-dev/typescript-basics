@@ -59,3 +59,5 @@ let gender: 'female' | 'male'
 //gender = 'other' // error
 
 gender = 'female' // no error
+
+export{}

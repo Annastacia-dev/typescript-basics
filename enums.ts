@@ -29,13 +29,4 @@ const seat: SeatType = SeatType.window
 
 //Overall, this code creates an enumeration that can be used to represent different types of seats on an airplane.
 
-
-
-
-
-
-
-
-
-
 export{}

@@ -31,5 +31,7 @@ userOne.age = 23; //works
 
 console.log(userOne);
 
+export{}
+
 
 

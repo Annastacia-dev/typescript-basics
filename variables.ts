@@ -45,39 +45,4 @@ console.log(random);
 
 // noImplicitAny - if set to true, typescript will throw an error if it can't infer the type of the variable
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 export{}
