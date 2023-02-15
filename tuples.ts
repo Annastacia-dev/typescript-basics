@@ -1,9 +1,10 @@
 // Tuples - Array-like structure.
 
-const drink: (number | string )[] = [21, 'brown', 'sweet'] 
+const drink: (number | string | boolean )[] = [true, 'brown', 21] 
 
-// If you want to have the typrs in a specific order, use a tuple
+// If you want to have the types in a specific order, use a tuple
 
+//const newDrink1: [number, string, boolean] = ['brown', 21, true] //error - type 'string' is not assignable to type 'number'
 const newDrink: [number, string, boolean] = [21, 'brown', true] // This is a tuple, you can't reverse the order - useful for API calls
 
 let rgb: [number, number, number] = [255, 255, 255]
