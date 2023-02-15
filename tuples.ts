@@ -18,3 +18,7 @@ const student2: Student = [21, 'John'] // This is correct
 //student2.push(true) //error -  argument type 'true' is not assignable to parameter type 'string | number'
 
 console.log(student2)
+
+
+
+export{}
