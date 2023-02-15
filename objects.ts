@@ -25,11 +25,3 @@ function createCourse(name: string, duration: number, instructor: string):{name:
 }
 
 export{}
-
-
-
-
-
-
-
-export{}
