@@ -1,6 +1,6 @@
 # Typescript-basics
 
-This is a collection of TypeScript examples that I've created to help me learn the language. I'm using the examples to help me learn the language and to help me understand how to use TypeScript in my own projects.
+A collection of TypeScript examples that I've created to help me learn the language.
 
 ## Installations
 
